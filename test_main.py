@@ -120,5 +120,3 @@ def test_repit_4_times(browser):
     """Повторить пункты 2-3 пять раз."""
     for i in range(4):
         test_user_can_make_request(browser)
-
-
