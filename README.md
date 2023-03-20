@@ -1,5 +1,7 @@
 Test task for "101 internet" company.
 
+[![black reformat](https://github.com/LadyginaElena/101-internet-test-task/actions/workflows/black%20reformat.yml/badge.svg)](https://github.com/LadyginaElena/101-internet-test-task/actions/workflows/black%20reformat.yml)
+
 ---
 ## Написать автотест на Python на отправку заявки с одного адреса. ##
 1. Открыть сайт https://piter-online.net/, в поиске ввести улицу Тестовая линия, дом 1. 
