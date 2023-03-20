@@ -107,5 +107,3 @@ def test_user_can_make_5_requests(browser):
         logo = browser.find_element(*LOGO)
         logo.click()
         assert f"{browser.current_url}" == f"{link}leningradskaya-oblast"
-
-
