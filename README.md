@@ -12,9 +12,10 @@ Test task for "101 internet" company.
 #  How it works?
 > ***1. Copy the repository with the command***
 
-    git clone 
+    git@github.com:LadyginaElena/101-internet-test-task.git
 
 > ***2. Create and activate a virtual environment in this folder(OS Windows)***
+
       python -m venv venv
       venv\Scripts\activate
 > 
@@ -24,7 +25,7 @@ Test task for "101 internet" company.
       
 > ***4. Start test execution***
       
-      pytest
+       pytest
 
 
     
