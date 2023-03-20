@@ -9,7 +9,7 @@ Test task for "101 internet" company.
 5. Убедиться, что у всех отправленных заявок статус 201."
 
 ---
-#  How it works?
+##  How it works? ##
 > ***1. Copy the repository with the command***
 
     git clone git@github.com:LadyginaElena/101-internet-test-task.git
