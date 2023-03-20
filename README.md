@@ -12,7 +12,7 @@ Test task for "101 internet" company.
 #  How it works?
 > ***1. Copy the repository with the command***
 
-    git@github.com:LadyginaElena/101-internet-test-task.git
+    git clone git@github.com:LadyginaElena/101-internet-test-task.git
 
 > ***2. Create and activate a virtual environment in this folder(OS Windows)***
 
