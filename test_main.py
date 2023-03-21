@@ -118,7 +118,9 @@ class TestCase:
         try:
             actions.scroll_to_element(send_request_btn).click().perform()
         except ElementNotInteractableException:
-            browser.execute_script("return arguments[0].scrollIntoView(true);", send_request_btn)
+            browser.execute_script(
+                "return arguments[0].scrollIntoView(true);", send_request_btn
+            )
             browser.execute_script("arguments[0].click();", send_request_btn)
 
         """5. Убедиться, что у всех отправленных заявок статус 200."""
